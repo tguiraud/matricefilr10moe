@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Fred Baucher
+name: Portail pour la MOA
 
 # Short bio or description (displayed in the header)
-description: Portail pour la MOA mamoa par l'équipe MOE mamoe
+description: portail exposant tous les artefacts que la MOA doit connaitre et/ou valider.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
